@@ -34,3 +34,6 @@ Model-View-ViewModel (MVVM) architecture
 - Xcode Version 12.2
 - iOS 13 or later
 - iPhone 8 or later
+
+## Screenshots
+<img src="https://github.com/nadakamel/Nutrition-Analysis/blob/main/Screenshots/Screen%201.png" width="300" height="534"> <img src="https://github.com/nadakamel/Nutrition-Analysis/blob/main/Screenshots/Screen%202.png" width="300" height="534"> <img src="https://github.com/nadakamel/Nutrition-Analysis/blob/main/Screenshots/Screen%203.png" width="300" height="534">
